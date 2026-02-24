@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h5 align="center">Desenvolvedora Back-End</h5>
 
 ###
