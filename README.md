@@ -18,7 +18,7 @@
 
 ###
 
-<h5 align="left">Olá! Sou estudante de Python, atualmente estou aprendendo sobre DJANGO e SQL.<br>Busco me profissionalizar nas minhas áreas de interesse que incluem Python.<br>Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua na minha trajetória.<br>Em busca do 1° emprego!</h5>
+<h5 align="left">Olá! Sou estudante de Python, atualmente estou aprendendo sobre HTML5 E CSS3.<br>Busco me profissionalizar nas minhas áreas de interesse que incluem Python.<br>Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua na minha trajetória.<br>Em busca do 1° emprego!</h5>
 
 ###
 
@@ -30,10 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
