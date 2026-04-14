@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">Olá! Sou estudante de Python, atualmente estou aprendendo sobre HTML5 E CSS3.<br>Busco me profissionalizar nas minhas áreas de interesse que incluem Python.<br>Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua na minha trajetória.<br>Em busca do 1° emprego!</h5>
+<h5 align="left">Olá! Sou estudante de FullStack, atualmente estou aprendendo sobre HTML5 E CSS3.<br>Busco me profissionalizar nas minhas áreas de interesse que incluem Python, HTML E CSS. <br>Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua na minha trajetória.<br>Em busca do 1° emprego!</h5>
 
 ###
 
