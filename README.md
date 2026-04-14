@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/giovana-furtado-a925822a7/" target="_blank" rel="external">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="https://portfolio-giovanafurtado.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
   </a>
 </div>
 
