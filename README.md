@@ -36,7 +36,7 @@
 
 ###
 
-<p data-importer="text" align="left"><strong>🍫 Mon Chocolat</strong><br>Site demonstrativo para uma confeitaria fictícia, criado com HTML, CSS e JavaScript. Apresenta a identidade da marca e organiza os produtos em cardápios de cookies, brownies, donuts e bolos.<br><br><a href="https://mon-chocolat-topaz.vercel.app/" target="_blank">Ver projeto</a> · <a href="https://github.com/giovanapftd/Mon-Chocolat" target="_blank">Código-fonte</a></p>
+<p data-importer="text" align="left"><strong>🍫 Mon Chocolat</strong><br>Site demonstrativo para uma confeitaria fictícia, criado com HTML, CSS e JavaScript. Apresenta a identidade da marca e organiza os produtos em cardápios de cookies, brownies, donuts e bolos.<br><br><a href="https://github.com/giovanapftd/Mon-Chocolat" target="_blank">Código-fonte</a></p>
 
 ###
 
@@ -55,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="Instagram"  />
   </a>
   <a href="https://app.notion.com/p/4055163f975680e38701cb5b70d73fbe?pvs=204" target="_blank">
-    <img src="https://cdn.simpleicons.org/notion/000000" width="40" height="40" alt="Documentação dos projetos no Notion"  />
+    <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="40" height="40" alt="Documentação dos projetos no Notion"  />
   </a>
 </div>
 
