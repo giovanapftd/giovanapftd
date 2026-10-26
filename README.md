@@ -36,7 +36,7 @@
 
 ###
 
-<p data-importer="text" align="left"><strong>🍫 Mon Chocolat</strong><br>Site demonstrativo para uma confeitaria fictícia, criado com HTML, CSS e JavaScript. Apresenta a identidade da marca e organiza os produtos em cardápios de cookies, brownies, donuts e bolos.<br><br><a href="https://github.com/giovanapftd/Mon-Chocolat" target="_blank">Código-fonte</a></p>
+<p data-importer="text" align="left"><strong>🍫 Mon Chocolat</strong><br>Site demonstrativo para uma confeitaria fictícia, criado com HTML, CSS e JavaScript. Apresenta a identidade da marca e organiza os produtos em cardápios de cookies, brownies, donuts e bolos.<br><br><a href="https://github.com/giovanapftd/Mon-Chocolat" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3digo--fonte-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código-fonte no GitHub" /></a></p>
 
 ###
 
