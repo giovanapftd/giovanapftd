@@ -54,7 +54,7 @@
   <a href="https://www.instagram.com/giovanapftd/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="Instagram"  />
   </a>
-  <a href="https://app.notion.com/p/4055163f975680e38701cb5b70d73fbe?pvs=204" target="_blank">
+  <a href="https://app.notion.com/p/4055163f9756817d8d48fb6556945577?pvs=204" target="_blank">
     <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="40" height="40" alt="Documentação dos projetos no Notion"  />
   </a>
 </div>
