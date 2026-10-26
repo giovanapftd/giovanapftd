@@ -32,19 +32,11 @@
 
 ###
 
-<h3 data-importer="text" align="center">🚀 Projetos em Destaque</h3>
+<h3 data-importer="text" align="center">🚀 Projeto em Destaque</h3>
 
 ###
 
-<p data-importer="text" align="left">💻 Mon Chocolat <br>-> Plataforma web de e-commerce desenvolvida para a apresentação, catálogo e venda online de doces.</p>
-
-###
-
-<p data-importer="text" align="left">💻 Mon Chocolat (React)<br>-> Reestruturação da aplicação Mon Chocolat desenvolvida em React, focado na criação de langing page e performance no front-end.</p>
-
-###
-
-<p data-importer="text" align="left">💻 TeckStock <br>-> Sistema web para controle e gestão de estoque de produtos e equipamentos tecnológicos.</p>
+<p data-importer="text" align="left"><strong>🍫 Mon Chocolat</strong><br>Site demonstrativo para uma confeitaria fictícia, criado com HTML, CSS e JavaScript. Apresenta a identidade da marca e organiza os produtos em cardápios de cookies, brownies, donuts e bolos.<br><br><a href="https://mon-chocolat-topaz.vercel.app/" target="_blank">Ver projeto</a> · <a href="https://github.com/giovanapftd/Mon-Chocolat" target="_blank">Código-fonte</a></p>
 
 ###
 
@@ -53,14 +45,17 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="giovanapftd@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  <a href="mailto:giovanapftd@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="email"  />
   </a>
-  <a href="www.linkedin.com/in/giovanapftd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/giovanapftd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="LinkedIn"  />
   </a>
-  <a href="https://www.instagram.com/giovanapftd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/giovanapftd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="Instagram"  />
+  </a>
+  <a href="https://app.notion.com/p/4055163f975680e38701cb5b70d73fbe?pvs=204" target="_blank">
+    <img src="https://cdn.simpleicons.org/notion/000000" width="40" height="40" alt="Documentação dos projetos no Notion"  />
   </a>
 </div>
 
