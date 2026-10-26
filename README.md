@@ -44,20 +44,12 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="mailto:giovanapftd@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="email"  />
-  </a>
-  <a href="https://www.linkedin.com/in/giovanapftd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="LinkedIn"  />
-  </a>
-  <a href="https://www.instagram.com/giovanapftd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="Instagram"  />
-  </a>
-  <a href="https://app.notion.com/p/4055163f9756817d8d48fb6556945577?pvs=204" target="_blank">
-    <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="40" height="40" alt="Documentação dos projetos no Notion"  />
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:giovanapftd@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="E-mail: giovanapftd@gmail.com" /></a>
+  <a href="https://br.linkedin.com/in/giovanapftd/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="LinkedIn: Giovana Furtado" /></a>
+  <a href="https://instagram.com/giovanapftd/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="Instagram: giovanapftd" /></a>
+  <a href="https://app.notion.com/p/4055163f9756817d8d48fb6556945577?pvs=204"><img src="https://cdn.simpleicons.org/notion/FFFFFF" width="40" height="40" alt="Documentação dos projetos no Notion" /></a>
+</p>
 
 ###
 
